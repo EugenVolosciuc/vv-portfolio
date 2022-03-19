@@ -11,7 +11,7 @@ const Hero = () => (
     <Section row nopadding style={{ marginBottom: "2rem" }}>
       <LeftSection>
         <SectionTitle main center>
-          Hi, I'm Valeria. <br />
+          Hi, I`&apos;`m Valeria. <br />
           Designer. Thinker.
         </SectionTitle>
         <SectionText>
